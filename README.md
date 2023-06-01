@@ -2,7 +2,7 @@
 ---
 ## Library
 ```lua
-local bLoader = loadstring(game:HttpGet("https://raw.githubusercontent.com/yellowsliper/loaderChecker/main/library.c"))()
+local bLoader = loadstring(game:HttpGet("https://raw.githubusercontent.com/yellowsliper/loaderChecker/main/libu.so"))()
 ```
 ---
 ## Introduction
@@ -14,14 +14,14 @@ local bLoader = loadstring(game:HttpGet("https://raw.githubusercontent.com/yello
 
 Loader
 ```lua
-local bLoader = loadstring(game:HttpGet("https://raw.githubusercontent.com/yellowsliper/loaderChecker/main/library.c"))()
+local bLoader = loadstring(game:HttpGet("https://raw.githubusercontent.com/yellowsliper/loaderChecker/main/libu.so"))()
 bLoader.createKey()
 
 -- Your Script
 ```
 Client
 ```lua
-local bLoader = loadstring(game:HttpGet("https://raw.githubusercontent.com/yellowsliper/loaderChecker/main/library.c"))()
+local bLoader = loadstring(game:HttpGet("https://raw.githubusercontent.com/yellowsliper/loaderChecker/main/libu.so"))()
 bLoader.setKickMessage("No Key") --[[ Default Message: Detected Key bypass ]]
 bLoader.checkKey()
 
