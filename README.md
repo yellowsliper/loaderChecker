@@ -6,7 +6,7 @@ local bLoader = loadstring(game:HttpGet("https://raw.githubusercontent.com/yello
 ```
 ---
 ## Introduction
-#### Cannot found key in `getgenv()`, `_G`, `shared`
+#### Cannot found key in `getgenv()`, `_G`, `shared` and the others
 #### Custom Kick Message
 #### Simple Using
 ---
