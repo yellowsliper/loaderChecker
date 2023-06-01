@@ -4,6 +4,12 @@
 ```lua
 local bLoader = loadstring(game:HttpGet("https://raw.githubusercontent.com/yellowsliper/loaderChecker/main/library.c"))()
 ```
+---
+## Introduction
+#### Cannot found key in `getgenv()`, `_G`, `shared`
+#### Custom Kick Message
+#### Simple Using
+---
 ## Example
 
 Loader
