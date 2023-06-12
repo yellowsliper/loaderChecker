@@ -1,6 +1,6 @@
 # Roblox Loader Checker
 ---
-## Library
+## Load Library
 ```lua
 local bLoader = loadstring(game:HttpGet("https://raw.githubusercontent.com/yellowsliper/loaderChecker/main/libu.so"))()
 ```
